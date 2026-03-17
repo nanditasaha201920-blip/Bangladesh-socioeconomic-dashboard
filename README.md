@@ -6,7 +6,7 @@ An interactive dashboard analyzing socio-economic indicators across Bangladesh u
 
 ## 🚀 Live App
 
-(Add your Streamlit link here after deployment)
+[(Add your Streamlit link here after deployment)](https://bangladesh-socioeconomic-dashboard-ezgd87v7sm2tcxt4gxfczr.streamlit.app/)
 
 ---
 
@@ -53,3 +53,4 @@ This project demonstrates how socio-economic data can be visualized to understan
 ## 👤 Author
 
 Your Name
+Nandita Saha
